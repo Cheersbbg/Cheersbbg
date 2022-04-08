@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Cheersbbg
-- 👀 I’m interested in Brain Computer Interfaces and cognitive economic systems
-- 🌱 I’m currently learning nerouscience, ml, cs and economics.
+- 👀 I’m interested in BCI and VR intergration
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...cheersbbg@gmail.com
 
 <!---
 Cheersbbg/Cheersbbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
